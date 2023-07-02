@@ -198,12 +198,6 @@ From one Friend WeChat
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [五月病](https://github.com/yihong0618/gitblog/issues/268) | 2023-06-02 | 2023-06-02 | 1 | 
-| [杂感](https://github.com/yihong0618/gitblog/issues/262) | 2023-05-01 | 2023-06-08 | 10 | 
-| [vm.overcommit_memory 学习笔记](https://github.com/yihong0618/gitblog/issues/261) | 2023-04-12 | 2023-04-14 | 3 | 
-| [开源四年的一些记录](https://github.com/yihong0618/gitblog/issues/259) | 2023-03-21 | 2023-04-29 | 28 | 
-| [不用 root 使用小爱同学和 ChatGPT 交互折腾记](https://github.com/yihong0618/gitblog/issues/258) | 2023-02-16 | 2023-06-24 | 78 | 
-| [用 eBPF trace PostgreSQL 的几种姿势](https://github.com/yihong0618/gitblog/issues/257) | 2023-01-28 | 2023-01-28 | 3 | 
 
 <!--END_SECTION:my_blog-->
 
