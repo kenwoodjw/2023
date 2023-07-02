@@ -10,8 +10,8 @@ on:
     types: [created]
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: kenwoodjw
+  GITHUB_EMAIL: blackxin55@gmail.com
   BOOKMARK_ISSUE_ID: 4
 
 
