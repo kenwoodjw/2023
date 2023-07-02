@@ -99,10 +99,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("github_token", help="github_token")
     parser.add_argument("repo_name", help="repo_name")
-    parser.add_argument("cichang_user_name", help="cichang_user_name")
-    parser.add_argument("cichang_password", help="cichang_password")
-    parser.add_argument("forst_email", help="forst_email")
-    parser.add_argument("forst_password", help="forst_password")
+    # parser.add_argument("cichang_user_name", help="cichang_user_name")
+    # parser.add_argument("cichang_password", help="cichang_password")
+    # parser.add_argument("forst_email", help="forst_email")
+    # parser.add_argument("forst_password", help="forst_password")
     options = parser.parse_args()
     # add more login auth info here
     # login_auth_dict = {
