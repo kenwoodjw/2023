@@ -12,7 +12,7 @@ on:
 env:
   GITHUB_NAME: kenwoodjw
   GITHUB_EMAIL: blackxin55@gmail.com
-  BOOKMARK_ISSUE_ID: 4
+  BOOKMARK_ISSUE_ID: 2
 
 
 jobs:
