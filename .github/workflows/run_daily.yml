@@ -31,7 +31,6 @@ jobs:
 
       - name: Generate new daily
         run: |
-          python get_daily.py ${{ secrets.G_T }} ${{ github.repository }}
           python main.py ${{ secrets.G_T }} ${{ github.repository }} 
 
       - name: Push README
