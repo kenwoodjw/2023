@@ -1,6 +1,6 @@
 # if you are not me change here
 YEAR = 2023
-REPO_NAME = f"yihong0618/{YEAR}"
+REPO_NAME = f"kenwoodjw/{YEAR}"
 COOK_LABEL_LIST = [
     "Cook",
 ]
@@ -54,7 +54,7 @@ TIMELINE_LABEL_LIST = [
 
 
 # if you are not me change here
-MY_BLOG_REPO = "yihong0618/gitblog"
+MY_BLOG_REPO = "kenwoodjw/gitblog"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
@@ -77,11 +77,11 @@ MY_SHANBAY_URL = f"https://web.shanbay.com/web/users/{MY_SHANBAY_USER_NAME}/zone
 
 # if you are not me change here
 ##### DUO ######
-MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
+MY_DUOLINGO_URL = "https://www.duolingo.com/profile/kenwoodjw"
 
 # if you are not me change here
 ##### CICHANG ######
-MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
+MY_CICHANG_URL = "https://twitter.com/kenwoodjw/status/1359040099107897344?s=20"
 
 ##### FORST ######
 FOREST_URL_HEAD = "https://forest-china.upwardsware.com"
