@@ -105,17 +105,17 @@ if __name__ == "__main__":
     parser.add_argument("forst_password", help="forst_password")
     options = parser.parse_args()
     # add more login auth info here
-    login_auth_dict = {
-        "词场": (options.cichang_user_name, options.cichang_password),
-        "番茄": (
-            options.forst_email,
-            options.forst_password,
-            options.github_token,
-            options.repo_name,
-        ),
-    }
+    # login_auth_dict = {
+    #     "词场": (options.cichang_user_name, options.cichang_password),
+    #     "番茄": (
+    #         options.forst_email,
+    #         options.forst_password,
+    #         options.github_token,
+    #         options.repo_name,
+    #     ),
+    # }
     main(
-        login_auth_dict,
+        {},
         options.github_token,
         options.repo_name,
     )
