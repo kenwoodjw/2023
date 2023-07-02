@@ -19,12 +19,6 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      - name: My GitHub Status
-        uses: kenwoodjw/github-readme-stats@main
-        with:
-         GH_TOKEN: "${{ secrets.G_T }}"
-         WITH_STARED: false
-
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
@@ -37,7 +31,7 @@ jobs:
 
       - name: Generate new daily
         run: |
-          python get_daily.py ${{ secrets.G_T }} ${{ github.repository }} ${{ secrets.CICHANG_USER_NAME }} ${{ secrets.CICHANG_PASSWORD }} ${{ secrets.FORST_EMAIL }} ${{ secrets.FORST_PASSWORD }} 
+          python get_daily.py ${{ secrets.G_T }} ${{ github.repository }}
           python main.py ${{ secrets.G_T }} ${{ github.repository }} 
 
       - name: Push README
