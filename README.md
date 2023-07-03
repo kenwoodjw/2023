@@ -11,7 +11,7 @@ From one Friend WeChat
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [周记](https://github.com/kenwoodjw/2023/issues/1) | 1 (周) | 1 | NO |
-| [GTD](https://github.com/kenwoodjw/2023/issues/4) | 1 (个) | 1 | YES |
+| [GTD](https://github.com/kenwoodjw/2023/issues/4) | 2 (个) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
