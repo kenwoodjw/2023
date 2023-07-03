@@ -5,7 +5,17 @@
 From one Friend WeChat
 ![image](https://user-images.githubusercontent.com/15976103/233092062-5f232415-c412-4ff1-af09-8905abb72e36.png)
 
+## 我的数字
 
+<!--START_SECTION:my_number-->
+| Name | Status | Streak | Today? | 
+ | ---- | ---- | ---- | ---- |
+| [番茄](https://github.com/yihong0618/2023/issues/12) | 178 (个) | 0 | NO |
+| [俯卧撑](https://github.com/yihong0618/2023/issues/18) | 188 (个) | 0 | NO |
+| [周记](https://github.com/yihong0618/2023/issues/1) | 27 (周) | 0 | NO |
+| [GTD](https://github.com/yihong0618/2023/issues/5) | 62 (个) | 0 | NO |
+
+<!--END_SECTION:my_number-->
 
 ## 写博客
 <!--START_SECTION:my_blog-->
