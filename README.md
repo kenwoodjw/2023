@@ -10,10 +10,8 @@ From one Friend WeChat
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [番茄](https://github.com/yihong0618/2023/issues/12) | 178 (个) | 0 | NO |
-| [俯卧撑](https://github.com/yihong0618/2023/issues/18) | 188 (个) | 0 | NO |
-| [周记](https://github.com/yihong0618/2023/issues/1) | 27 (周) | 0 | NO |
-| [GTD](https://github.com/yihong0618/2023/issues/5) | 62 (个) | 0 | NO |
+| [周记](https://github.com/kenwoodjw/2023/issues/1) | 1 (周) | 1 | NO |
+| [GTD](https://github.com/kenwoodjw/2023/issues/4) | 1 (个) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
