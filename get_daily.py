@@ -2,8 +2,7 @@ import argparse
 
 from github import Github
 
-# from github_daily import MY_STATUS_DICT_FROM_API, MY_STATUS_DICT_FROM_COMMENTS
-from github_daily import  MY_STATUS_DICT_FROM_COMMENTS
+from github_daily import MY_STATUS_DICT_FROM_API, MY_STATUS_DICT_FROM_COMMENTS
 from github_daily.config import MONTH_SUMMARY_HEAD, MONTH_SUMMARY_STAT_TEMPLATE
 from github_daily.utils import LABEL_DAILY_DICT, replace_readme_comments
 
