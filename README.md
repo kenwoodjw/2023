@@ -11,7 +11,7 @@ From one Friend WeChat
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [周记](https://github.com/kenwoodjw/2023/issues/1) | 1 (周) | 0 | NO |
-| [GTD](https://github.com/kenwoodjw/2023/issues/4) | 2 (个) | 1 | NO |
+| [GTD](https://github.com/kenwoodjw/2023/issues/4) | 2 (个) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
@@ -19,6 +19,7 @@ From one Friend WeChat
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [纪念黄家驹！](https://github.com/kenwoodjw/gitblog/issues/3) | 2023-07-04 | 2023-07-04 | 0 | 
 | [友情链接](https://github.com/kenwoodjw/gitblog/issues/2) | 2023-07-02 | 2023-07-02 | 1 | 
 | [如何fork yihong的gitblog](https://github.com/kenwoodjw/gitblog/issues/1) | 2023-07-01 | 2023-07-01 | 0 | 
 
