@@ -10,7 +10,7 @@ From one Friend WeChat
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [周记](https://github.com/kenwoodjw/2023/issues/1) | 2 (周) | 1 | NO |
+| [周记](https://github.com/kenwoodjw/2023/issues/1) | 2 (周) | 0 | NO |
 | [GTD](https://github.com/kenwoodjw/2023/issues/4) | 2 (个) | 0 | NO |
 
 <!--END_SECTION:my_number-->
